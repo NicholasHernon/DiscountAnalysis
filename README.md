@@ -1,4 +1,4 @@
-# Analyzing the impact of discounts
+# Investigating the relationship between discounts and order quantity.
 
 This notebook investigates the relationship between discounts and order quantity in the Northwind database (created by Microsoft).
 
