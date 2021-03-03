@@ -14,5 +14,8 @@ Several rows with uncommon discount levels are removed from the dataset. The fac
 
 A t-test using the scipy.stats.ttest_ind function indicates that there is far more variation between  discounted and non-discounted orders than variation within those groups. There is an extremely low probability (far lower than the alpha value selected) that this variation would exist if the null hypothesis was true. We can therefore reject the null hypothesis in this case and say that discounts impact order quantity.
 
+![image](https://user-images.githubusercontent.com/79678028/109748310-e5c26d00-7b95-11eb-846c-0dc2e5e808c7.png)
+
+
 
 
